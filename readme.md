@@ -3,7 +3,7 @@
 <div align="center">
     <img src="images/google.jpg" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Google 1988 Project</h3>
+  <h3 align="center">Google 1998 Project</h3>
 
   <p align="center">
     <br>
