@@ -1,0 +1,89 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="images/google.jpg" alt="Logo" width="80" height="80">
+
+  <h3 align="center">Google 1988 Project</h3>
+
+  <p align="center">
+    <br>
+    ·
+    <a href="">View Demo</a>
+    ·
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Screenshot_1]
+
+
+This project is the second end-of-chapter project of the Patika.Dev Front-End course.
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=eng)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Installation
+
+
+
+1. Clone the repo
+
+   ```sh
+   git clone 
+   ```
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Halil Ibrahim Akkaya -  halil.ibrahim.akkaya@icloud.com
+
+Project Link: [https://github.com/ibrahimakkaya/JazzShop](https://github.com/ibrahimakkaya/JazzShop)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
