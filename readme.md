@@ -85,6 +85,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Halil Ibrahim Akkaya -  halil.ibrahim.akkaya@icloud.com
 
-Project Link: [Google-1988](https://github.com/ibrahimakkaya/Google-1998)
+Project Link: [Google-1998](https://github.com/ibrahimakkaya/Google-1998)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
