@@ -8,7 +8,7 @@
   <p align="center">
     <br>
     ·
-    <a href="">View Demo</a>
+    <a href="https://ibrahimakkaya.github.io/Google-1998/">View Demo</a>
     ·
   </p>
 </div>
@@ -35,7 +35,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot_1]
+![Screenshot_2](https://user-images.githubusercontent.com/71381757/146524228-20635e13-e73d-4342-9967-4ad4d64adbd5.png)
+
 
 
 This project is the second end-of-chapter project of the Patika.Dev Front-End course.
@@ -64,7 +65,7 @@ This project is the second end-of-chapter project of the Patika.Dev Front-End co
 1. Clone the repo
 
    ```sh
-   git clone 
+   git clone https://github.com/ibrahimakkaya/Google-1998.git
    ```
 
 
@@ -84,6 +85,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Halil Ibrahim Akkaya -  halil.ibrahim.akkaya@icloud.com
 
-Project Link: [https://github.com/ibrahimakkaya/JazzShop](https://github.com/ibrahimakkaya/JazzShop)
+Project Link: [Google-1988](https://github.com/ibrahimakkaya/Google-1998)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
